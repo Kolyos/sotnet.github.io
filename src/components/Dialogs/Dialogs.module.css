@@ -1,0 +1,21 @@
+.dialog__body{
+   display: flex;
+   align-items: center;
+   background: url("https://abrakadabra.fun/uploads/posts/2022-01/1643265051_1-abrakadabra-fun-p-krasivie-estetichnie-foni-dlya-shapki-1.jpg");
+   background-repeat: no-repeat;
+   background-position: center ;
+   background-size: cover;
+}
+.dialogs__names{
+   flex: 0 1 50%;
+}
+.names__item{
+   list-style-type: none;
+}
+.name__names a{
+   display: inline-block;
+   padding: 10px;
+   color: antiquewhite;
+   font-weight: 700;
+   text-decoration: none;
+}

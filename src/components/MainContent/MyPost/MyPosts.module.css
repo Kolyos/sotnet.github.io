@@ -1,0 +1,16 @@
+.item{
+   font-size: 20px;
+   font-weight: 700;
+   color: blue;
+   position: relative;
+}
+.item p{
+   padding-left: 50px;
+}
+.image__avatar{
+   position: absolute;
+   top: 0;
+   left: 0;
+   border-radius: 50%;
+   width: 30px;
+}
